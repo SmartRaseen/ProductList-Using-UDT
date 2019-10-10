@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\ProductListUDT\ProductListUDT\bin\Debug\ProductListUDT.dacpac
+C:\Users\USER\source\repos\ProductListUDT\ProductListUDT\bin\Debug\ProductListUDT.dll
+C:\Users\USER\source\repos\ProductListUDT\ProductListUDT\bin\Debug\ProductListUDT.pdb
+C:\Users\USER\source\repos\ProductListUDT\ProductListUDT\obj\Debug\ProductListUDT.dll
+C:\Users\USER\source\repos\ProductListUDT\ProductListUDT\obj\Debug\ProductListUDT.pdb
+C:\Users\USER\source\repos\ProductListUDT\ProductListUDT\obj\Debug\Model.xml
+C:\Users\USER\source\repos\ProductListUDT\ProductListUDT\obj\Debug\refactor.xml
+C:\Users\USER\source\repos\ProductListUDT\ProductListUDT\obj\Debug\postdeploy.sql
+C:\Users\USER\source\repos\ProductListUDT\ProductListUDT\obj\Debug\predeploy.sql
